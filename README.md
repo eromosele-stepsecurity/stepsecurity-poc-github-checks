@@ -4,7 +4,7 @@ GitHub checks allows you to enforce security controls by blocking Pull Requests 
 
 This Repository contains workflows/files that will trigger StepSecurity GitHub Check failures when a PR is opened. The branch [`vuln-branch`](https://github.com/step-security-poc/stepsecurity-poc-github-checks/tree/vuln-branch) contains the workflows and files, that once merged, will trigger detections. 
 
-StepSecurity Supports the following Controls and GitHub Check Types
+StepSecurity Supports the following Controls and GitHub Check Types 
 
 | Control/Check | Description |
 |------|-------------|
